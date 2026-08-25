@@ -70,16 +70,16 @@ I enjoy gaming, exploring new technology, and learning something new every day.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/USERNAME_LINKEDIN">
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/nabil-ahmad-dhika-95943242b">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://discord.com/users/ID_DISCORD_KAMU">
+<a href="https://discord.com/users/nazzy09172">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
-<a href="https://instagram.com/USERNAME_INSTAGRAM">
+<a href="https://instagram.com/[USERNAME_INSTAGRAM](https://www.instagram.com/nazzy_qx?igsi=MTk3d2liaGFjajIxNw==)">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-<a href="mailto:EMAIL_KAMU@gmail.com">
+<a href="mailto:Aadnabil363@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
