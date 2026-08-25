@@ -3,13 +3,7 @@
 # Hey 👋 I'm Nabil
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YzRxa3hqOHNmdzZ4eXppZnRnd3ZiOGtwNWF0YXh4bDc5OW5tanczcyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/ytu2GUYbvhz7zShGwS/giphy.gif" width="260" alt="Animated GIF" />
-
-</div>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=D3+Information+Technology+Student+from+Indonesia;Always+learning+and+building+new+things+%F0%9F%9A%80;Future+Web+Developer+%F0%9F%92%BB" alt="Typing animation" />
-
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZrMjZ6aHMycDJ0cm1idmJyNTI1YmsxMXZ3ZHpvdm40a2R6YmYweSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/cmyYLp1maYNWkCU9nS/giphy.gif" width="280" alt="Coding GIF" />
 </div>
 
 ---
