@@ -1,4 +1,3 @@
-Bisa. Ini versi README GitHub yang lebih rapi, mirip contoh, plus teks animasi. Ganti `USERNAME_GITHUB`, link sosial, dan emailnya ya.
 
 ```md
 <div align="center">
@@ -99,4 +98,3 @@ I enjoy gaming, exploring new technology, and learning something new every day.
 </div>
 ```
 
-Buat repo baru dengan nama yang **sama persis dengan username GitHub kamu**, lalu paste kode ini ke file `README.md`. README tersebut otomatis tampil di halaman profil GitHub.
